@@ -1,5 +1,5 @@
 # AlexNet-bird-classifier-lowres
-AlexNet모델을 활용한 저해상도인 조류 이미지 분류 프로젝트
+AlexNet모델을 활용한 저해상도인 조류 이미지 분류 프로젝트입니다.
 <br><br>
 
 ## 🖥️ 개발환경
@@ -13,4 +13,4 @@ AlexNet모델을 활용한 저해상도인 조류 이미지 분류 프로젝트
 4. AlexNet 모델 활용
 5. 예측 결과 시각화
 <br>
-![image](https://github.com/user-attachments/assets/a91ea8a4-e71f-4b31-97e1-d38acc1d2fd6)
+![img](https://github.com/Yu-Hyemin/AlexNet-bird-classifier-lowres/blob/c85269ac654ff26e71d398fea2628f9bd4c70d64/results_img.png)
