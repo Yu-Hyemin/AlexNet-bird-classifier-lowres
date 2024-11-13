@@ -1,6 +1,6 @@
 # AlexNet-bird-classifier-lowres
 AlexNet모델을 활용한 저해상도인 조류 이미지 분류 프로젝트
-<br>
+<br><br>
 
 ## 🖥️ 개발환경
 * <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=Google Colab&logoColor=white">
@@ -13,4 +13,6 @@ AlexNet모델을 활용한 저해상도인 조류 이미지 분류 프로젝트
 4. AlexNet 모델 활용
 5. 예측 결과 시각화
 <br>
-![image](https://github.com/user-attachments/assets/0a9aa9a3-8b82-471a-91f1-2539dd37f52d)
+![image](https://github.com/user-attachments/assets/b986ef7d-cf61-48f5-8182-a3410fb77432)
+
+
