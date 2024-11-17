@@ -14,4 +14,13 @@ AlexNet모델을 활용한 저해상도 조류 이미지 분류 프로젝트입�
 5. 예측 결과 시각화
 <br>
 
+### 원본 이미지
+<img src="images/ori_image.png" width="360" height="360"/>
+<br>
+
+### 다양한 보간법 실습
+<img src="images/methods_image.png" width="900" height="600"/>
+<br>
+
+### 실제 vs 예측
 ![Image](./images/results_img.png)
