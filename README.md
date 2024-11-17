@@ -7,8 +7,9 @@ AlexNet모델을 활용한 저해상도 조류 이미지 분류 프로젝트입�
 <br>
 
 ## 📓 개발일지
-* <a href="https://blog.naver.com/yhm_it/223662614697"><img src="https://img.shields.io/badge/Blog-03C75A.svg?&style=flat-square&logo=naver&logoColor=white"/>
+* <a href="https://blog.naver.com/yhm_it/223659527257"><img src="https://img.shields.io/badge/Blog-03C75A.svg?&style=flat-square&logo=naver&logoColor=white"/>
 </a>
+<br>
 
 ## ➡️ 프로젝트 흐름
 1. 데이터 수집: 데이콘(저해상도 조류 이미지 분류 AI 경진대회)
